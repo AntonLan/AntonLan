@@ -1,15 +1,13 @@
 ![MasterHead](https://plopdo.com/wp-content/uploads/2021/10/Web-Development-San-Francisco-1.jpeg)
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">TypeScript front-end developer</h3>
+<h3 align="center">Developer</h3>
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTllNWE0ZWRmYjQxOGYwYTUyNDFhOWI0ZmU1ZTZhYjA5ZjZjMzk0NyZjdD1n/ES9cAJlcxblRESzOH1/giphy.gif" alt="antonlan" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonlan&label=Profile%20views&color=0e75b6&style=flat" alt="antonlan" /> </p>
 
 - 🔭 I’m currently working on [My App Easy-Base](https://github.com/AntonLan/easy-base_NextJS)
 
-- 🌱 I’m currently learning **React/TypeScript**
-
-- 👯 I’m looking to collaborate on **job**
+- 🌱 I’m currently learning **Swift**
 
 - 💬 Ask me about **React**
 
